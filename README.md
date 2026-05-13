@@ -1,4 +1,4 @@
-# Le Bonhomme Pendu
+# The HangedMan
 
 Console-based Hangman game developed in C# with .NET 8, applying core object-oriented programming principles.
 
