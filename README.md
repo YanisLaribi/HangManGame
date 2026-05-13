@@ -70,7 +70,3 @@ dotnet run
 3. Correct guesses reveal letter positions. Incorrect guesses add a body part to the gallows.
 4. The game ends when the word is fully revealed (win) or after 6 incorrect guesses (loss).
 5. The player can choose to play again; the scoreboard carries over across rounds.
-
-## Author
-
-Steve Bonnhomme
